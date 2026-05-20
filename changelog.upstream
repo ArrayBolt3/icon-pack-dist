@@ -1,3 +1,9 @@
+commit 8c4ca1748c8b7d83190772c656301e73faadb1b2
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sat Mar 28 09:44:17 2026 +0000
+
+    bumped changelog version
+
 commit 2fb8d258f5ac6fa554dc9808652fb37daab640c2
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Sat Mar 28 05:30:18 2026 -0400
@@ -35,7 +41,7 @@ Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Fri Dec 26 06:07:46 2025 -0500
 
     Merge pull request #1 from Nurmagoz/patch-1
-    
+
     Upgrading all links to either working ones or the archived
 
 commit 13994a8334fdefd694654a0c1c1012ac8ceecfaa
@@ -43,11 +49,11 @@ Author: Nurmagoz <11895339+Nurmagoz@users.noreply.github.com>
 Date:   Fri Dec 26 10:56:58 2025 +0000
 
     Upgrading all links to either working ones or the archived
-    
+
     Note: Some websites are not archived nor they exist anymore e.g:
-    
+
     http://findicons.com/icon/84698/firewall?id=85058
-    
+
     so either we say its redirecting nowadays to xyz or remove it and see alternatives or keep it as is.
 
 commit ef6ad914f088de624bfb55d168147fe8cbc2ca44
@@ -143,7 +149,7 @@ Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Wed Apr 2 13:09:58 2025 -0400
 
     remove unused folder `/usr/share/icon-pack-dist/whonix_banners/SVG`
-    
+
     to avoid unicode
 
 commit 38bc7213632f82499639d95ccea15a5c66bec77b
@@ -470,11 +476,11 @@ Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Sat Oct 19 03:40:07 2019 -0400
 
     update usr/share/icons/anon-icon-pack/torbrowser.png
-    
+
     import from ~/.tb/tor-browser/Browser/browser/chrome/icons/default/default64.png
-    
+
     https://forums.whonix.org/t/tor-browser-icon-not-updated-to-the-new-purple-one/8306
-    
+
     Thanks to AnonymousUser for the suggestion!
 
 commit 1b90c654242c114f9a31eeee28b4f2f4a7f6cbd5
@@ -590,7 +596,7 @@ Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Thu Apr 4 08:47:19 2019 -0400
 
     fix lintian warning
-    
+
     W: anon-icon-pack source: incomplete-creative-commons-license cc-by-3.0 (paragraph at line 240)
 
 commit ecc1b88255a3c68652bac13368a7bf3ecf5564a0
@@ -628,18 +634,18 @@ Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Fri Mar 1 14:31:48 2019 +0000
 
     add improved legal protections clauses
-    
+
     The license for software created by Whonix is the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version with additional terms applicable per GNU GPL version 3 section 7.
-    
+
     The additional terms are based on the Doom 3 license which is Debian refers to as `GPL-3+-with-id-software-additional-terms`, which is Debian DFSG [1] (The Debian Free Software Guidelines) approved and which is therefore suitable for Debian `main`. Whonix made applied minimal changes to it:
-    
+
     * Rewrite `The Doom 3 BFG Edition GPL Source Code` to the more common `this program` which is used throughout the GPL.
     * Added a "trump clause" [2], in other words, any conflicts or disputes between the additional terms and the GPLv3 shall be resolved in favor of the GPLv3 by adding `Notwithstanding any other provision of this License` (as mentioned in GPL FAQ [3]) at the beginning of the additional terms.
-    
+
     [1] https://www.debian.org/social_contract#guidelines
     [2] https://www.fsf.org/news/canonical-updated-licensing-terms
     [3] https://www.gnu.org/licenses/gpl-faq.html#v3Notwithstanding
-    
+
     For more considerations, see also:
     https://www.whonix.org/wiki/Dev/Licensing
 
@@ -702,7 +708,7 @@ Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Fri Feb 10 15:47:48 2017 +0000
 
     remove faketime from Build-Depends:
-    
+
     since no longer used for reproducible builds
 
 commit 7f91b44a24bb1f2fcc2fe6082e9e756f598668b0
@@ -746,7 +752,7 @@ Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Tue Jun 28 21:28:39 2016 +0000
 
     add more refined Whonix banners
-    
+
     https://forums.whonix.org/t/should-we-contact-ura-design-design-for-your-open-source-project/2509/38
 
 commit b87d27307d5f2a330f80b3cde5cd0045d0bb3ae2
@@ -754,7 +760,7 @@ Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Mon Jun 27 15:59:23 2016 +0200
 
     add refined Whonix banners
-    
+
     https://forums.whonix.org/t/should-we-contact-ura-design-design-for-your-open-source-project/2509/38
 
 commit 5c586a1ee2ff93f19b4ab9ce429be1d2dca97ca0
